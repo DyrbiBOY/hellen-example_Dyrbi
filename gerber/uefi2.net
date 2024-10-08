@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/runner/work/hellen-example_Dyrbi/hellen-example_Dyrbi/uefi2.kicad_sch</source>
-    <date>2024-10-08T08:23:27+0000</date>
-    <tool>Eeschema 8.0.5-8.0.5-0~ubuntu22.04.1</tool>
+    <source>/home/runner/work/ECU-techPorsche88/ECU-techPorsche88/ECU-techPorsche88.kicad_sch</source>
+    <date>2024-07-30T00:29:36+0000</date>
+    <tool>Eeschema 8.0.4-8.0.4-0~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>uefi2.kicad_sch</source>
+        <source>ECU-techPorsche88.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -36,7 +36,7 @@
       <libsource lib="art-electro-power" part="BATTERY_CR2032" description="CR2032"/>
       <property name="LCSC" value="C70377"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="2032"/>
       <property name="ki_fp_filters" value="BATT_CR2032_MPD"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,7 +54,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15849"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0230f980-cdf4-4c88-826b-fa3893a6cded</tstamps>
     </comp>
@@ -70,7 +70,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C15849"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>129292b4-26a9-4ab1-9a4a-5e796e92acf5</tstamps>
     </comp>
@@ -86,7 +86,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C307331"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -104,7 +104,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C307331"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -122,7 +122,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -140,7 +140,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -158,7 +158,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -176,7 +176,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C115688"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -194,7 +194,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -212,7 +212,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C15195"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -230,7 +230,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -248,7 +248,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -266,7 +266,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -284,7 +284,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C16772"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -302,7 +302,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -320,7 +320,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C307331"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -338,7 +338,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C307331"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -356,7 +356,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -374,7 +374,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C307331"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -392,7 +392,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C96446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -410,7 +410,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C307331"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -428,7 +428,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4a547dcd-4928-46da-aab3-90e49cc9e934</tstamps>
     </comp>
@@ -444,7 +444,7 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC" value="C307331"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -460,7 +460,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -476,7 +476,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -492,7 +492,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -508,7 +508,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -524,7 +524,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -540,7 +540,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -556,7 +556,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -572,7 +572,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -588,7 +588,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -604,7 +604,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -620,7 +620,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -636,7 +636,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -652,7 +652,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -668,7 +668,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -684,7 +684,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -700,7 +700,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -716,7 +716,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -732,7 +732,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -748,7 +748,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -764,7 +764,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -780,7 +780,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -796,7 +796,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -815,7 +815,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -834,7 +834,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -852,7 +852,7 @@
       <libsource lib="Device" part="D" description="Diode"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -870,7 +870,7 @@
       <libsource lib="Device" part="D" description="Diode"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -888,7 +888,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e7c8c8e2-5a63-4cd7-8b3f-3393a6d7da52</tstamps>
     </comp>
@@ -904,7 +904,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C8598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1d906dc8-55b0-417b-9979-0d8d8f3c5349</tstamps>
     </comp>
@@ -921,7 +921,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -941,7 +941,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -960,7 +960,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -980,7 +980,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -999,7 +999,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1019,7 +1019,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1038,7 +1038,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1058,7 +1058,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1077,7 +1077,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1097,7 +1097,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1116,7 +1116,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1136,7 +1136,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1155,7 +1155,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1175,7 +1175,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1194,7 +1194,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1214,7 +1214,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1234,7 +1234,7 @@
       <property name="LCSC" value="C72041"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1254,7 +1254,7 @@
       <property name="LCSC" value="C72041"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1274,7 +1274,7 @@
       <property name="LCSC" value="C72041"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1294,7 +1294,7 @@
       <property name="LCSC" value="C72041"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1314,7 +1314,7 @@
       <property name="LCSC" value="C72041"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1334,7 +1334,7 @@
       <property name="LCSC" value="C72041"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1354,7 +1354,7 @@
       <property name="LCSC" value="C72041"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1374,7 +1374,7 @@
       <property name="LCSC" value="C72041"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1394,7 +1394,7 @@
       <property name="LCSC" value="C72043"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1414,7 +1414,7 @@
       <property name="LCSC" value="C72043"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1434,7 +1434,7 @@
       <property name="LCSC" value="C72043"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1453,7 +1453,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1473,7 +1473,7 @@
       <property name="LCSC" value="C72043"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1492,7 +1492,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1512,7 +1512,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1531,7 +1531,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1551,7 +1551,7 @@
       <property name="LCSC" value="C2286"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1570,7 +1570,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1590,7 +1590,7 @@
       <property name="LCSC" value="C84265"/>
       <property name="Comment" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
       <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1609,7 +1609,7 @@
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="diode"/>
       <property name="ki_fp_filters" value="D*SOD?323*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1627,7 +1627,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9b4977a0-8ff8-48f1-925b-2ace676d952a</tstamps>
     </comp>
@@ -1643,7 +1643,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C354908"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>706fb36d-9c83-4693-bd78-14dacfee4ca8</tstamps>
     </comp>
@@ -1659,7 +1659,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C354908"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8fd2bf72-bcf6-4a66-b314-e1015a641bc2</tstamps>
     </comp>
@@ -1675,7 +1675,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C354908"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2db243c9-0730-4f1f-96db-353f9d2c9398</tstamps>
     </comp>
@@ -1691,7 +1691,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C354908"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4f1dc6aa-984a-41a2-ab03-11efd901b429</tstamps>
     </comp>
@@ -1707,7 +1707,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C354908"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fce9bc78-3b18-4f6a-a8c7-68bc7222f4c8</tstamps>
     </comp>
@@ -1723,7 +1723,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C354908"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a0bf5058-36da-4416-8042-bca557a24f5d</tstamps>
     </comp>
@@ -1739,7 +1739,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C354908"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c6aaf3bd-594e-44b1-a840-4c089953581f</tstamps>
     </comp>
@@ -1755,7 +1755,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C354908"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>049df7c2-2467-4bba-b40b-eef2718cbcac</tstamps>
     </comp>
@@ -1769,7 +1769,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8b1cf082-8e5c-47b2-a87e-e7f391d6ca1e</tstamps>
     </comp>
@@ -1783,7 +1783,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>485f6bbd-8f2d-4381-876f-fb8dd1eb2bf3</tstamps>
     </comp>
@@ -1797,7 +1797,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>eabc0332-3384-4228-971e-6dae83c0978c</tstamps>
     </comp>
@@ -1811,7 +1811,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>70db0fab-c416-4f98-bb9e-c96600ec23ff</tstamps>
     </comp>
@@ -1825,7 +1825,7 @@
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="mounting hole"/>
       <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1841,7 +1841,7 @@
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="mounting hole"/>
       <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1857,7 +1857,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1873,7 +1873,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1889,7 +1889,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1905,7 +1905,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1923,7 +1923,7 @@
       <libsource lib="hellen-one-common" part="AudioJack_THR" description="Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)"/>
       <property name="LCSC" value="C165947"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="audio jack receptacle stereo headphones phones TRS connector"/>
       <property name="ki_fp_filters" value="Jack*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1939,7 +1939,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1955,7 +1955,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1971,7 +1971,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1989,7 +1989,7 @@
       <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value="C10385"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2005,7 +2005,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2023,7 +2023,7 @@
       <libsource lib="hellen-one-common" part="USB_B_Mini" description="USB Mini Type B connector"/>
       <property name="LCSC" value="C13453"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector USB mini"/>
       <property name="ki_fp_filters" value="USB*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2041,7 +2041,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1e2961a1-0f38-4be8-a6a2-ec65167420e3</tstamps>
     </comp>
@@ -2057,7 +2057,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2294b787-2cea-4b94-884c-f9640192581b</tstamps>
     </comp>
@@ -2073,7 +2073,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2f06ea23-29d2-4077-9342-f3cf52a2957d</tstamps>
     </comp>
@@ -2089,7 +2089,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3ab459c9-a6e1-4691-8bf2-84b92044e939</tstamps>
     </comp>
@@ -2105,7 +2105,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6566fb1a-a527-457a-91bb-340dd9516bed</tstamps>
     </comp>
@@ -2121,7 +2121,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>35488aef-4e44-4d16-8750-b51a286eceff</tstamps>
     </comp>
@@ -2137,7 +2137,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>875bc693-1529-47a6-a2fa-e205d206c12d</tstamps>
     </comp>
@@ -2153,7 +2153,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cbb7fcc3-232a-49cb-a77f-2aae215aafba</tstamps>
     </comp>
@@ -2169,7 +2169,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>535d569b-2ec2-4595-b8d6-8a53cd2b6952</tstamps>
     </comp>
@@ -2185,7 +2185,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8252157a-7589-447c-b91d-5d6c5f69e3af</tstamps>
     </comp>
@@ -2201,7 +2201,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>49c42668-f710-4a39-a5d3-cb61c77622ca</tstamps>
     </comp>
@@ -2217,7 +2217,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5c78deae-127e-444d-a4a0-86cdf35d32df</tstamps>
     </comp>
@@ -2233,7 +2233,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9098dd1b-9a80-49ff-b727-0f0401d45c37</tstamps>
     </comp>
@@ -2249,7 +2249,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fd489f8d-0f18-4884-a0a1-44cd1373ee01</tstamps>
     </comp>
@@ -2265,7 +2265,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9d57ea79-08f7-4e67-bcea-5997827c59a2</tstamps>
     </comp>
@@ -2281,7 +2281,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b5f7b7c3-9db1-4f04-9df5-0568963c14d9</tstamps>
     </comp>
@@ -2297,7 +2297,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>86fd6048-2ee1-4bea-a7a0-a466dffac430</tstamps>
     </comp>
@@ -2313,7 +2313,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cacfc45c-6f7f-4385-aaf4-428181988e9e</tstamps>
     </comp>
@@ -2329,7 +2329,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8385b348-52ba-4552-ad93-9945fa3c1d35</tstamps>
     </comp>
@@ -2345,7 +2345,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9a2d1e8e-5f32-4f63-9458-39c286a01a48</tstamps>
     </comp>
@@ -2361,7 +2361,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4df1c757-6ef8-40ff-8f1a-be118e938d2e</tstamps>
     </comp>
@@ -2377,7 +2377,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b7b1922b-08b8-47e2-83bf-8f9954273848</tstamps>
     </comp>
@@ -2393,7 +2393,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>674dc57e-dffb-45c9-92f4-9c609d9c25a2</tstamps>
     </comp>
@@ -2409,7 +2409,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6021cafb-404a-4f06-b138-0f5e3a9c3294</tstamps>
     </comp>
@@ -2425,7 +2425,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>38657516-19ff-44d7-8c70-0f76f9dc094f</tstamps>
     </comp>
@@ -2443,7 +2443,7 @@
       <property name="MyComment" value=""/>
       <property name="LCSC" value="C182446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>79cd949c-9903-4aa3-8e68-4509678e3203</tstamps>
     </comp>
@@ -2459,7 +2459,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="MyCooment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>480d9983-dd23-4fc2-a023-1f47247d53f3</tstamps>
     </comp>
@@ -2475,7 +2475,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>133bbcb5-1550-432e-b5d5-bbe14fee5957</tstamps>
     </comp>
@@ -2491,7 +2491,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>280f1497-c8ca-43f1-90b8-68ec44b7b898</tstamps>
     </comp>
@@ -2507,7 +2507,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cc4d1a89-277c-4146-860f-7d1d2a451920</tstamps>
     </comp>
@@ -2523,7 +2523,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9d2a1905-6621-4a7d-baa1-74520dc05425</tstamps>
     </comp>
@@ -2539,7 +2539,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e1b0987b-abcf-491b-8133-906f7eca08d5</tstamps>
     </comp>
@@ -2555,7 +2555,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a867c39b-37d2-4546-8908-c7bec18ffb47</tstamps>
     </comp>
@@ -2571,7 +2571,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4008d9dc-1216-45f4-b11d-9de216328acd</tstamps>
     </comp>
@@ -2587,7 +2587,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>217cf465-a2be-4776-8247-862cfbfc583d</tstamps>
     </comp>
@@ -2601,7 +2601,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2617,7 +2617,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2634,7 +2634,7 @@
       </fields>
       <libsource lib="power12-0.2" part="Module-power12-0.2" description="Hellen-One Power-12V Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c4d4d9c4-af8a-4a2f-96b3-c1033516acd7</tstamps>
     </comp>
@@ -2649,7 +2649,7 @@
       </fields>
       <libsource lib="power5-0.2" part="Module-power5-0.2" description="Hellen-One Power-5V Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2cd5c732-ef9b-4a6f-912f-faa8441cc531</tstamps>
     </comp>
@@ -2664,7 +2664,7 @@
       </fields>
       <libsource lib="knock-0.1" part="Module-knock-0.1" description="Hellen-One Knock Pre-amplifier Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fa8fdb58-5696-40d5-a51e-a0dda6610fb1</tstamps>
     </comp>
@@ -2679,7 +2679,7 @@
       </fields>
       <libsource lib="knock-0.1" part="Module-knock-0.1" description="Hellen-One Knock Pre-amplifier Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5855e50d-95cd-4058-81f2-04ea1bbc1fd3</tstamps>
     </comp>
@@ -2693,7 +2693,7 @@
       </fields>
       <libsource lib="hellen-one-vr-0.1" part="Module-vr-0.1" description="Hellen-One VR Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>258a2e53-5830-4ca9-b5bb-863c4fedaa28</tstamps>
     </comp>
@@ -2708,7 +2708,7 @@
       </fields>
       <libsource lib="output-0.3" part="Module-output-0.3" description="Hellen-One Outputs Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>53832298-f2c1-4508-83ba-618bcbee9954 75de1b93-cde9-4c2e-9650-6e4c4a7d5ed6 23b3bc9f-5fcd-40e3-a28d-2b17d09a2288</tstamps>
     </comp>
@@ -2723,7 +2723,7 @@
       </fields>
       <libsource lib="input-0.1" part="Module-input-0.1" description="Hellen-One Analog/Digital Inputs Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b6516aa5-e237-4dee-b290-cc45a6a9f5a0 b2134124-844e-4d25-9f7d-abd701f199c2 96658780-c635-4f18-8068-0cf9e759a322 965fba3c-9b0a-4e7d-9c48-7d6984522983</tstamps>
     </comp>
@@ -2738,7 +2738,7 @@
       </fields>
       <libsource lib="ign8-0.2" part="Module-ign8-0.2" description="Hellen-One 8-ch Ignition Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5d8f8b55-d8de-4dae-be4d-7f3351ba3e23</tstamps>
     </comp>
@@ -2753,7 +2753,7 @@
       </fields>
       <libsource lib="mcu-0.6" part="Module-mcu-0.6" description="Hellen One MCU Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>68f66abe-226c-47ab-af1d-d3e0b95fbfdb f5f26c88-2498-4945-94c3-aadd739963b5 4e2c89a0-6b31-428c-be5f-975418d0b9c0 1dc45fdb-3589-45eb-a7f2-f9cb980b9d48</tstamps>
     </comp>
@@ -2768,7 +2768,7 @@
       </fields>
       <libsource lib="sd-0.1" part="Module-sd-0.1" description="Hellen-One microSD Card Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f1e7fcdc-66bd-4f4d-8dc8-fb3dc078013a</tstamps>
     </comp>
@@ -2783,7 +2783,7 @@
       </fields>
       <libsource lib="can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>128e5d66-9263-4366-bd9d-0461834873fc</tstamps>
     </comp>
@@ -2797,7 +2797,7 @@
       </fields>
       <libsource lib="wbo-0.3" part="Module-wbo-0.3" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>efb2aac4-9a5d-406d-9558-ff95f21a506f</tstamps>
     </comp>
@@ -2812,7 +2812,7 @@
       </fields>
       <libsource lib="can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cfa94954-64ab-41b6-b401-549482bb9d30</tstamps>
     </comp>
@@ -2826,7 +2826,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2842,7 +2842,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2858,7 +2858,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2874,7 +2874,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2890,7 +2890,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2906,7 +2906,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2922,7 +2922,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2938,7 +2938,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2954,7 +2954,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2970,7 +2970,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2986,7 +2986,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3002,7 +3002,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3018,7 +3018,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3034,7 +3034,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3050,7 +3050,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3066,7 +3066,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3082,7 +3082,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3098,7 +3098,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3114,7 +3114,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3130,7 +3130,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3146,7 +3146,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3162,7 +3162,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3178,7 +3178,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3194,7 +3194,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3210,7 +3210,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3226,7 +3226,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3242,7 +3242,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3258,7 +3258,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3274,7 +3274,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3290,7 +3290,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3306,7 +3306,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3322,7 +3322,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3338,7 +3338,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3354,7 +3354,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3370,7 +3370,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3386,7 +3386,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3402,7 +3402,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3419,7 +3419,7 @@
       </fields>
       <libsource lib="motronic_88pin_STS" part="Motronic_88pin" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_fp_filters" value="176122-6_2nd"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>eb76a4f0-c678-40cc-b1c9-157ec30cb670 f4d3cf96-2d64-4be6-adaa-026558420224 6dbb1542-f8de-4ecb-9d01-899bec14bbb8</tstamps>
@@ -3436,7 +3436,7 @@
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9d918110-2564-49f1-95cf-e1195c8f6b22</tstamps>
@@ -3453,7 +3453,7 @@
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>338b11a7-158d-4d2c-a3e4-09077a141e32</tstamps>
@@ -3470,7 +3470,7 @@
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1ac1565c-1d55-41ef-aca7-94cd1adedd25</tstamps>
@@ -3487,7 +3487,7 @@
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6f8f1af0-088a-4e84-a5d5-59d8d5bc255f</tstamps>
@@ -3504,7 +3504,7 @@
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a0ec6d6a-b407-41c3-b461-d55de40c4e14</tstamps>
@@ -3521,7 +3521,7 @@
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5b8f6806-5583-4180-a356-03bd1a62c941</tstamps>
@@ -3538,7 +3538,7 @@
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8c396086-5185-43ac-b381-76519e506594</tstamps>
@@ -3555,7 +3555,7 @@
       <libsource lib="Device" part="Q_NIGBT_GCE" description="N-IGBT transistor, gate/collector/emitter"/>
       <property name="LCSC" value="C151649"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="transistor IGBT N-IGBT"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>98755efb-35c3-46cc-9e59-eceacaea4f8c</tstamps>
@@ -3573,7 +3573,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value="C113610"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="low side switch"/>
       <property name="ki_fp_filters" value="SOT?223*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3592,7 +3592,7 @@
       <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
       <property name="LCSC" value="C113610"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="low side switch"/>
       <property name="ki_fp_filters" value="SOT?223*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3610,7 +3610,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="NA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3628,7 +3628,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a94d3c98-9fc9-4e40-a7d2-cc16f6519dd2</tstamps>
     </comp>
@@ -3644,7 +3644,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>75a8cf96-af7a-4b45-8aea-7adefa79708f</tstamps>
     </comp>
@@ -3660,7 +3660,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="NA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3678,7 +3678,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="NA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3696,7 +3696,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>35652c06-4324-4780-a21e-f8eddf3fec92</tstamps>
     </comp>
@@ -3712,7 +3712,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>02d539c7-6283-4f46-bdc5-53e7f51b61ee</tstamps>
     </comp>
@@ -3728,7 +3728,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="NA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3746,7 +3746,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="NA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3764,7 +3764,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>104a70ae-34e2-4d67-8364-9a63f66ca272</tstamps>
     </comp>
@@ -3780,7 +3780,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b9782cda-adaa-484c-be0c-dce3ef977404</tstamps>
     </comp>
@@ -3796,7 +3796,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="NA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3814,7 +3814,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="Comment" value="0"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3e7a8278-9b96-4dd1-8040-6e9b55c03298</tstamps>
     </comp>
@@ -3830,7 +3830,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="Comment" value="0"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d2536ee5-e8ae-40ff-b482-c63df0939682</tstamps>
     </comp>
@@ -3846,7 +3846,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C106234"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3864,7 +3864,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C106233"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3882,7 +3882,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C60489"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3900,7 +3900,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="NA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3918,7 +3918,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d9104013-ae40-42ce-a292-317bc2b4af04</tstamps>
     </comp>
@@ -3934,7 +3934,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23345"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5f08cd10-52c8-4f1f-8b7e-46981119f89d</tstamps>
     </comp>
@@ -3950,7 +3950,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="NA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -3968,7 +3968,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C13167"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>333ef002-4232-41ee-9c9a-0ebaba47176b</tstamps>
     </comp>
@@ -3984,7 +3984,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C13167"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a2eb11ad-0457-4ac3-a2e8-fa211de8fcf8</tstamps>
     </comp>
@@ -4000,7 +4000,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C60489"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4018,7 +4018,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C60489"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4036,7 +4036,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C25822"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>01d1fc57-6575-468d-a2c4-296d76bbf944</tstamps>
     </comp>
@@ -4052,7 +4052,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C25822"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0a94b2a7-6a62-4343-9167-fea4bb0b4f6f</tstamps>
     </comp>
@@ -4068,7 +4068,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C25822"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>41f59692-9b0d-4110-bdef-198435b13dae</tstamps>
     </comp>
@@ -4082,7 +4082,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a4f3b415-a548-4442-b00f-4e0e40001f5c</tstamps>
     </comp>
@@ -4096,7 +4096,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>84b40754-6acd-4113-a43f-6dbf9d3e2cc7</tstamps>
     </comp>
@@ -4112,7 +4112,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C25931"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4130,7 +4130,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C25132"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4148,7 +4148,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C25941"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4166,7 +4166,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C25941"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4184,7 +4184,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C25941"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4202,7 +4202,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C25765"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4220,7 +4220,7 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC" value="C25940"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4239,7 +4239,7 @@
       <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R network parallel topology isolated"/>
       <property name="ki_fp_filters" value="DIP* SOIC* R*Array*Concave* R*Array*Convex*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4258,7 +4258,7 @@
       <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
       <property name="LCSC" value="C1980"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R network parallel topology isolated"/>
       <property name="ki_fp_filters" value="DIP* SOIC* R*Array*Concave* R*Array*Convex*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4277,7 +4277,7 @@
       <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
       <property name="LCSC" value="C240722"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R network parallel topology isolated"/>
       <property name="ki_fp_filters" value="DIP* SOIC* R*Array*Concave* R*Array*Convex*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4296,7 +4296,7 @@
       <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
       <property name="LCSC" value="C240722"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="R network parallel topology isolated"/>
       <property name="ki_fp_filters" value="DIP* SOIC* R*Array*Concave* R*Array*Convex*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4314,7 +4314,7 @@
       <libsource lib="hellen-one-common" part="Button_SPST" description="Single-Pole, Single-Throw Switch"/>
       <property name="LCSC" value="C115357"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>51d8cb69-7534-4922-8b2f-0e69d3aeba09</tstamps>
     </comp>
@@ -4330,7 +4330,7 @@
       <libsource lib="hellen-one-common" part="Button_SPST" description="Single-Pole, Single-Throw Switch"/>
       <property name="LCSC" value="C115357"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c45682c3-2508-4d76-bf8f-d9d26d0bd6b0</tstamps>
     </comp>
@@ -4344,7 +4344,7 @@
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="test point tp"/>
       <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4360,7 +4360,7 @@
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="test point tp"/>
       <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4376,7 +4376,7 @@
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="test point tp"/>
       <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4392,7 +4392,7 @@
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="test point tp"/>
       <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4410,7 +4410,7 @@
       <libsource lib="hellen-one-common" part="TLS115" description=""/>
       <property name="LCSC" value=" "/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ab9f6837-2bb4-43e2-820d-80cdd8fb5f3b</tstamps>
     </comp>
@@ -4428,7 +4428,7 @@
       <property name="LCSC" value=" "/>
       <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>92a304b2-5303-411f-9b0a-24adc344a08f</tstamps>
     </comp>
@@ -4445,7 +4445,7 @@
       <libsource lib="Amplifier_Operational" part="MCP6002-xSN" description="1MHz, Low-Power Op Amp, SOIC-8"/>
       <property name="LCSC" value="C7377"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="dual opamp"/>
       <property name="ki_fp_filters" value="SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4463,7 +4463,7 @@
       <libsource lib="hellen-one-common" part="L6205PD" description=""/>
       <property name="LCSC" value="C36543"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5294c9cc-cf5a-415d-9ecf-76a298ecb03c</tstamps>
     </comp>
@@ -4479,7 +4479,7 @@
       <libsource lib="hellen-one-common" part="MPX4_MAP" description=""/>
       <property name="LCSC" value="C511770"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2e0bb0a6-b2e9-4df5-8282-94ced6d0f936</tstamps>
     </comp>
@@ -4494,7 +4494,7 @@
       </fields>
       <libsource lib="Sensor_Pressure" part="MPXA6115A" description="Absolute pressure sensor, 15 to 115kPa, analog output, integrated signal conditioning, temperature compensated, SO package"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="absolute pressure sensor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8aab7f5f-379f-4772-8951-d868c2d701c9</tstamps>
@@ -4512,7 +4512,7 @@
       <libsource lib="hellen-one-common" part="LIS2DW12TR" description="3-Axis Accelerometer, 2/4/8g range, I2C/SPI interface"/>
       <property name="LCSC" value="C189624"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="3-axis accelerometer spi mems"/>
       <property name="ki_fp_filters" value="LGA*2x2mm*P0.5mm*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4531,7 +4531,7 @@
       <libsource lib="Sensor_Pressure" part="LPS25HB" description="MEMS pressure sensor, 260-1260 hPa, absolute digital output baromeeter"/>
       <property name="LCSC" value="C87898"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="mems absolute baromeeter"/>
       <property name="ki_fp_filters" value="ST?HLGA*2.5x2.5mm*P0.6mm*LayoutBorder3x2y*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4547,7 +4547,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4563,7 +4563,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4579,7 +4579,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4595,7 +4595,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4611,7 +4611,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4627,7 +4627,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4643,7 +4643,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4659,7 +4659,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4675,7 +4675,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4691,7 +4691,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4707,7 +4707,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4723,7 +4723,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4739,7 +4739,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4755,7 +4755,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4771,7 +4771,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4787,7 +4787,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4803,7 +4803,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4819,7 +4819,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4835,7 +4835,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4851,7 +4851,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4867,7 +4867,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4883,7 +4883,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4899,7 +4899,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4915,7 +4915,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4931,7 +4931,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4947,7 +4947,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4963,7 +4963,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4979,7 +4979,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -4995,7 +4995,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -5011,7 +5011,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -5027,7 +5027,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -5043,7 +5043,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -5059,7 +5059,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -5075,7 +5075,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -5091,7 +5091,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -5107,7 +5107,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -5123,7 +5123,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uefi2.kicad_sch"/>
+      <property name="Sheetfile" value="ECU-techPorsche88.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
